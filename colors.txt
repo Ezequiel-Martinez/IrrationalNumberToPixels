@@ -1,0 +1,46 @@
+'0': (255, 255, 255),  # White
+'1': (227, 227, 227),
+'2': (199, 199, 199),
+'3': (171, 171, 171),
+'4': (143, 143, 143),
+'5': (115, 115, 115),
+'6': (87, 87, 87),
+'7': (59, 59, 59),
+'8': (31, 31, 31),
+'9': (3, 3, 3)         # Almost Black
+
+
+'0': (255, 0, 0),      # Red
+'1': (255, 128, 0),    # Orange-Red
+'2': (255, 255, 0),    # Yellow
+'3': (128, 255, 0),    # Yellow-Green
+'4': (0, 255, 0),      # Green
+'5': (0, 255, 128),    # Blue-Green
+'6': (0, 128, 255),    # Light Blue
+'7': (0, 0, 255),      # Blue
+'8': (128, 0, 255),    # Indigo
+'9': (255, 0, 255)     # Purple
+
+
+'0': (0, 100, 0),      # Dark Green (lowlands)
+'1': (34, 139, 34),    # Forest Green
+'2': (107, 142, 35),   # Olive Drab
+'3': (154, 205, 50),   # Yellow Green (hills)
+'4': (218, 165, 32),   # Goldenrod (low altitude)
+'5': (184, 134, 11),   # Dark Goldenrod
+'6': (139, 69, 19),    # Saddle Brown (high altitude)
+'7': (160, 82, 45),    # Sienna
+'8': (188, 143, 143),  # Rosy Brown (mountain tops)
+'9': (216, 191, 216)   # Thistle (highest peaks)
+
+
+'0': (255, 0, 0),      # Pure Red (Primary)
+'1': (0, 255, 0),      # Pure Green (Primary)
+'2': (0, 0, 255),      # Pure Blue (Primary)
+'3': (255, 255, 0),    # Pure Yellow (Secondary)
+'4': (0, 255, 255),    # Pure Cyan (Secondary)
+'5': (255, 0, 255),    # Pure Magenta (Secondary)
+'6': (255, 127, 0),    # Pure Orange
+'7': (127, 255, 0),    # Chartreuse Green
+'8': (0, 255, 127),    # Spring Green
+'9': (127, 0, 255)     # Electric Indigo
